@@ -1,1 +1,25 @@
 
+ Datasets
+1. gefcom.csv
+Benchmark-style energy forecasting dataset inspired by GEFCom.
+
+Includes variables such as:
+
+temperature
+wind speed
+solar irradiance
+load demand
+2. nasa_power.csv
+Weather data collected from NASA POWER API.
+
+Includes:
+
+temperature
+wind speed
+solar irradiance
+3. synthetic_energy.csv
+Constructed dataset used for reproducible experiments.
+
+Target variable:
+
+energy_output
